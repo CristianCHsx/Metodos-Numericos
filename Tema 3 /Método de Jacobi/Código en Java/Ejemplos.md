@@ -1,13 +1,13 @@
  # Ejemplos/ejercicios de la ejecucion del funcionamiento del programa
 
-## Ejercicio 1:
+# Ejercicio 1:
 
 ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/f7e51023-d300-49a9-b5a0-785e97c125ee)  - Sistema de Ecuaciones
 
 ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/fa3294db-46b8-4d7b-b88a-a2c4be05459d)
 
 
- ##Ejercicio 2:
+# Ejercicio 2:
 
 ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/55f74914-7283-4aed-bd18-729b932f4b30) - Sistema de Ecuaciones
 
