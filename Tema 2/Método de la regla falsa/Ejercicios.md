@@ -28,16 +28,25 @@
 
 **_Salida del programa:_**
 
-
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/7e123f16-57f7-4fd4-87bc-3c69f72fbee0)
 
 ## Ejercicio 4:
 
 **_Ecuaciones:_**
 
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/af3b9f92-01f8-4ac1-b256-354c29d81b86)
+
 **_Salida del programa:_**
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/56afad74-d018-4dae-b4f9-6756fd79e235)
 
 ## Ejercicio 5:
 
 **_Ecuaciones:_**
 
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/b1aa2636-2224-4c8e-954b-a2205465860f)
+
 **_Salida del programa:_**
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/fa861225-08bc-49c0-91ea-922b52921539)
+
