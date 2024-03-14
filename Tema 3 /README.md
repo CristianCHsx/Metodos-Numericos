@@ -10,3 +10,8 @@ Existen varios metodos para encontrar las incognitas de un sistema de ecuaciones
   * Metodo de eliminacion-Gaussiana
   * Metodo de Gauss-Seidel
 
+Estos metodos nos son muy utiles a la hora de encontrar los valores de diversos sistemas de ecuaciones de disntitos tamaños, hacerlos de la manera analitica puede resultar largo y complicado pero
+estos metodos pueden ser resueltos atraves de pseudocodigos o en un lenguaje de programacion como Java. Resultando en que sean mas sencillos de digerir y afrontar ademas que el resultado puede
+obtenerse en poco tiempo
+
+Dentro de este directorio se encontraran los 4 codigos de Java para los 4 metodos adjuntando sus pruebas de funcionamiento con 5 sistemas de ecuaciones.
