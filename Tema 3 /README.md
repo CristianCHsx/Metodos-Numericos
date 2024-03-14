@@ -1,4 +1,4 @@
-# Método de solucion a sistemas de ecuaciones
+# Métodos de solucion a sistemas de ecuaciones
 
 Como se conoce respecto al anterior tema, se pueden usar algoritmos e intrucciones en loop para encontrar las raices de ecuaciones.
 Estos metodos ya sabemos cuales son como lo es el metodo de biseccion, metodo de la regla falsa, metodo de Newton-Rhapson y el metodo de la secante, entre otros.
