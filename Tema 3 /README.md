@@ -16,3 +16,10 @@ obtenerse en poco tiempo
 
 Dentro de este directorio se encontraran los 4 codigos de Java para los 4 metodos adjuntando sus pruebas de funcionamiento con 5 sistemas de ecuaciones.
 Se encontrará un archivo de Java y sus pruebas con diferentes ejemplos.
+
+# Equipo
+En este tema fue requerida la ayuda de un equipo, lo cual significa que los codigos de Java creados para este apartado fueron elaborados de manera colaborativa entre:
+* Axel Madin Hernandez
+* Jorge de Jesus Romero Lopez
+* Jose Miguel Garcia Jaimes
+* Cristian Cortes Hernandez
