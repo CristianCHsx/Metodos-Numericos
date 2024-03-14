@@ -15,3 +15,4 @@ estos metodos pueden ser resueltos atraves de pseudocodigos o en un lenguaje de 
 obtenerse en poco tiempo
 
 Dentro de este directorio se encontraran los 4 codigos de Java para los 4 metodos adjuntando sus pruebas de funcionamiento con 5 sistemas de ecuaciones.
+Se encontrará un archivo de Java y sus pruebas con diferentes ejemplos.
