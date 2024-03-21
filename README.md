@@ -5,15 +5,26 @@ Aqui se encontrará organizado por temas que se ven cada cierto periodo, a dentr
 utilizados para resolver las problematicas
 
 + Tema 2 _Métodos de solucion de ecuaciones_
-  - Método de Biseccion
-  - Método de Newton Raphson
-  - Método de la regla falsa
-  - Método de la secante
+  - [Método de Biseccion](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Metodo%20de%20Biseccion)
+      - Introduccion
+      - Codigo en Java
+      - Ejercicios
+  - [Método de Newton Raphson](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20Newton%20Raphson)
+      - Introduccion
+      - Codigo en Java
+      - Ejercicios
+  - [Método de la regla falsa](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20la%20regla%20falsa)
+      - Introduccion
+      - Codigo en Java
+      - Ejercicios 
+  - [Método de la secante](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20la%20secante)
+      - Introduccion
+      - Codigo en Java
+      - Ejercicios
 
 + Tema 3 _Métodos de solucion de sistemas de ecuaciones_
-  - Método de Gauss Jordan
-  - Método de Eliminacion Gaussiana
-  - Método de Jacobi
-  - Método de Gauss-Seidel
+  - [Método de Gauss Jordan](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Método%20de%20Gauss-Jordan/Código%20en%20Java)
+  - [Método de Eliminacion Gaussiana](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Método%20de%20eliminación%20Gaussiana/Código%20en%20Java)
+  - [Método de Jacobi](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Método%20de%20Jacobi/Código%20en%20Java)
+  - [Método de Gauss-Seidel](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Metodo%20de%20Gauss-Seidel)
 
-[Metodo de Biseccion](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Metodo%20de%20Biseccion)
