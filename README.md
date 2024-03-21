@@ -8,11 +8,11 @@ utilizados para resolver las problematicas
   - [Método de Biseccion](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Metodo%20de%20Biseccion)
       - Introduccion
       - [Codigo en Java](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%202/Metodo%20de%20Biseccion/Biseccion.java)
-      - Ejercicios
+      - [Ejercicios](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%202/Metodo%20de%20Biseccion/Ejercicios.md)
   - [Método de Newton Raphson](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20Newton%20Raphson)
       - Introduccion
-      - Codigo en Java
-      - Ejercicios
+      - [Codigo en Java](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%202/Método%20de%20Newton%20Raphson/Newton.java)
+      - [Ejercicios](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%202/Método%20de%20Newton%20Raphson/Ejercicios.md)
   - [Método de la regla falsa](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20la%20regla%20falsa)
       - Introduccion
       - Codigo en Java
