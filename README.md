@@ -36,8 +36,9 @@ utilizados para resolver las problematicas
       - [Codigo en Java](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Método%20de%20Jacobi/Código%20en%20Java/MetodoJacobi.java)
       - [Ejercicios](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Método%20de%20Jacobi/Código%20en%20Java/Ejemplos.md)
   - [Método de Gauss-Seidel](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Metodo%20de%20Gauss-Seidel)
-      - [Introduccion]()
+      - [Introduccion](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Metodo%20de%20Gauss-Seidel/README.md)
       - [Codigo en Java](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Metodo%20de%20Gauss-Seidel/Codigo%20en%20Java/Main.java)
       - [Ejercicios](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Metodo%20de%20Gauss-Seidel/Codigo%20en%20Java/Ejemplos.md)
 
 + Tema 4 _Diferenciación e Integración numérica_
+ - **EN DESARROLLO**
