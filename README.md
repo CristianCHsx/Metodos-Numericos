@@ -16,4 +16,4 @@ utilizados para resolver las problematicas
   - Método de Jacobi
   - Método de Gauss-Seidel
 
-
+[Metodo de Biseccion](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Metodo%20de%20Biseccion)
