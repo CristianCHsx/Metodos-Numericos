@@ -18,7 +18,7 @@ utilizados para resolver las problematicas
       - [Codigo en Java](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%202/Método%20de%20la%20regla%20falsa/Regla_Falsa.java)
       - [Ejercicios](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%202/Método%20de%20la%20regla%20falsa/Ejercicios.md) 
   - [Método de la secante](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20la%20secante)
-      - [Introduccion]()
+      - [Introduccion](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%202/Método%20de%20la%20secante/README.md)
       - [Codigo en Java](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%202/Método%20de%20la%20secante/MetodoDeLaSecante.java)
       - [Ejercicios](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%202/Método%20de%20la%20secante/Ejercicios.md)
 
