@@ -7,7 +7,7 @@ utilizados para resolver las problematicas
 + Tema 2 _Métodos de solucion de ecuaciones_
   - [Método de Biseccion](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Metodo%20de%20Biseccion)
       - Introduccion
-      - Codigo en Java
+      - [Codigo en Java](Tema2/MetododeBiseccion/Biseccion.java)
       - Ejercicios
   - [Método de Newton Raphson](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20Newton%20Raphson)
       - Introduccion
