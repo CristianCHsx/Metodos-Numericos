@@ -28,3 +28,4 @@ utilizados para resolver las problematicas
   - [Método de Jacobi](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Método%20de%20Jacobi/Código%20en%20Java)
   - [Método de Gauss-Seidel](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Metodo%20de%20Gauss-Seidel)
 
++ Tema 4 _Diferenciación e Integración numérica_
