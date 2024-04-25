@@ -42,4 +42,4 @@ utilizados para resolver las problematicas
 
 + Tema 4 _Diferenciación e Integración numérica_
   - [Regla del trapcio](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema_4/Regla_del_trapecio)
- - **EN DESARROLLO**
+  - [Método de Simpson 3/8](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema_4/Método_de_Simpson_3_Octavos#readme)
