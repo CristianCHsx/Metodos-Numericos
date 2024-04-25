@@ -17,13 +17,13 @@ Existen dos "formulas" para calcula el valor de la integral, una es la manera si
 
 Esta se utiliza cuando el numero de intervalos es igual 2.
 
-Aqui lo que se requiere es tener a y b, estos son los valores de los limites de la integral.
+1. Aqui lo que se requiere es tener a y b, estos son los valores de los limites de la integral.
 
-Se tiene que evaluar la funcion propuesta entre cada valor de a y b, despues de evaluar las funciones se suman entre estas dos para dividir entre 2 el resultado
+2. Se tiene que evaluar la funcion propuesta entre cada valor de a y b, despues de evaluar las funciones se suman entre estas dos para dividir entre 2 el resultado
 
-Finalmente el resultado obtenido se multiplica por h/2.
+3. Finalmente el resultado obtenido se multiplica por h/2.
 
-El resutlado dado seria la aproximacion de la integral, eso si solo usando 2 intervalos (n=2) esto puede hacer que el valor tenga una tasa de error alta.
+4. El resutlado dado seria la aproximacion de la integral, eso si solo usando 2 intervalos (n=2) esto puede hacer que el valor tenga una tasa de error alta.
 ## Compuesta:
 
 ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/4e349b3b-6b30-405e-a010-a3d01c7293a2)
@@ -32,15 +32,15 @@ En esta se utiliza cuando el numero de intervalos es mayor a 2.
 
 Aqui ya empiza a cambiar un poquito la formula, sin embargo sigue manteniendo la esencia.
 
-Para esto se tiene que calcular h=b-a/2. Esto son son pasos entre cada intervalo
+1. Para esto se tiene que calcular h=b-a/2. Esto son son pasos entre cada intervalo
 
-Para saber el valor de cada intervalo, se empieza sumando el valor h a el valor de a (a+h) consecutivamente hasta llegar con el valor de b. Esto seran las xi
+2. Para saber el valor de cada intervalo, se empieza sumando el valor h a el valor de a (a+h) consecutivamente hasta llegar con el valor de b. Esto seran las xi
 
-Cada xi obtenida será evaluada en la funcion. Una vez evaluada todas las xi y teniendo el resultado lo que sigue es hacer la sumatoria.
+3. Cada xi obtenida será evaluada en la funcion. Una vez evaluada todas las xi y teniendo el resultado lo que sigue es hacer la sumatoria.
 
-Para esto los valores de x1 hasta xn-1 seran multiplicados por 2, los unicos que no seran multiplicados son X0 y Xn. Finalmente se hace la suma de estos valores
+4. Para esto los valores de x1 hasta xn-1 seran multiplicados por 2, los unicos que no seran multiplicados son X0 y Xn. Finalmente se hace la suma de estos valores
 
-Teniendo el resultado se multiplicara por h/2, y se obtendria el resultado final
+5. Teniendo el resultado se multiplicara por h/2, y se obtendria el resultado final
 
 Podria parecer que no hay mucha diferencia entre las dos formas de aplicar la formula pero la verdad es que si hay una diferencia y es en la aproximacion del resultado ya que en la formula compuesta puede manejar mas de 2 intervalos provocando que el resultado sea mas acercado al real
 
