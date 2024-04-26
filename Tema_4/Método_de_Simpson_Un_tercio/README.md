@@ -1,4 +1,24 @@
 # Método de Simpson 1/3
+El metodo de simpson, es un metodo de integracion numerica que se utiliza para aproximar el valor de una integra definida.
+Este a comparacion a el de regla del trepacio, rescata en la peridida de area por usar trapecio en usar parabolas para encontrar valor de la integral.
+
+El uso de parabolas permite tener un resultado mas aproximado al real, ya que no deja tantos espacios vacios como cuando se media con trapecios. Estas parabolas se miden entre caada intervalos
+para obtener el area de la parabola y asi obtener la sumatoria total para el valor de la integral.
+
+La formula de simpson 1/3 consiste en lo siguiente:
+∫[a,b] f(x) dx ≈ (h/6) * [f(a) + f(b) + 4f(m)]
+
+- h = (b - a) / n 
+
+- m = (a + b) / 2 
+
+En este se ocupan 3 puntos para obtener un valor de la integral, 2 de ellos provienen de los limites y el restante proviene del punto medio entre estos dos limites.
+
+Lo anterior es la forma simple del metodo de simpson 1/3. Existe tambien la forma complejta o de multivariable para el metodo de simpson de 1/3.
+
+En donde el numero de intervalos es mayor a 3.
+
+
 
 
 
