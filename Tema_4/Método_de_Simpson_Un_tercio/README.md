@@ -176,6 +176,3 @@ public class Simpson1tercio {
  - **Solucion dado por Symbolab**
 
    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/8853087c-45bf-4882-b9f1-cb2aee881d9b)
-
-  
- 
