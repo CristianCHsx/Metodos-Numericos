@@ -19,8 +19,7 @@ Lo anterior es la forma simple del metodo de simpson 1/3. Existe tambien la form
 En donde el numero de intervalos es mayor a 3.
 
 
-
-
+# Codigo en Java
 
 ```java
 package simpson.pkg1tercio;
