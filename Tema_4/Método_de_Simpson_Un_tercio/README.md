@@ -25,6 +25,20 @@ Donde:
 - ah = a+(h)(x) donde x es un numero entero desde 1 hasta b
 - Dependiendo si el numero de posicion de ah sea par se multiplicara por 2 y si es impar se multiplicaria por 4
 
+# Algoritmo
+
+Algoritmo para Simpson 1/3 para una sola aplicacion
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/0152eed8-77d7-41fb-82ed-42711215633d) (Chapra, 2006)
+
+Algoritmo para Simpson 1/3 de aplicacion multiple
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/f42452df-6fb5-42aa-a4f1-f5dc14f9d26d) (Chapra, 2006)
+
+Como podemos ver en el algoritmo de _**Simpson para una sola aplicacion**_ vemos que lo que hace solo es remplazar los valores en la formula para obtener el resultado, estos valores pueden ya ser evaluados antes y solo ser mandados a la funcion o por otro lado pueden ser calculados dentro de la misma funcion, en este caso se puede ver que es mejor calcularlos antes para que no sea muy extenso.
+
+En el segundo algoritmo de _**Simpson para una aplicacion multiple**_ podemos ver que hace el uso de un for para recorrer de i = 1 hasta n-2 y que ira aumentando de 2 en 2 esto para cumplir con la formula donde genera la suma de la multiplicacion de 4*fi + 2*fi+1 en el caso que fueron pares, acabando el for terminaria de completar las operaciones restantes de acuerdo a las funciones.
+
 # Codigo en Java
 
 ```java
