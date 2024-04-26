@@ -112,3 +112,70 @@ public class Simpson1tercio {
 ```
 # Demostracion del funcionamiento del codigo hecho en Java
 
+## Ejemplo 1:
+  - **Funcion:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/820eb034-478a-46e7-b255-30b3468478d0)
+
+ - **Solucion dado por el programa:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/c5e3e86f-c4e3-47f0-97b0-e99535db0927)
+
+ - **Solucion dado por Symbolab**
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/6f5364f8-315c-4f23-b6c5-743cc7b8bf56)
+ 
+## Ejemplo 2:
+  - **Funcion:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/4f0f6631-fe33-40c5-a69e-ee508869b42d)
+
+ - **Solucion dado por el programa:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/39bbf27a-9cec-4850-acfa-7799adf89ff7)
+
+ - **Solucion dado por Symbolab**
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/c5b4182f-3621-48fa-987e-317d439dfeb1)
+
+## Ejemplo 3:
+  - **Funcion:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/2ea530c4-5d6b-4812-b5bc-b03cb34fdf38)
+
+ - **Solucion dado por el programa:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/7aabf5ea-44c0-4fcb-bfa0-6333dc34dd90)
+
+ - **Solucion dado por Symbolab**
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/1128c7f3-e274-40cd-baf8-c48a7d850737)
+
+## Ejemplo 4:
+  - **Funcion:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/ab075003-7a68-4b93-adbf-0ed3be07b8eb)
+
+ - **Solucion dado por el programa:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/5ce7e0db-197d-49c6-8030-d8f5bf2c54b9)
+
+ - **Solucion dado por Symbolab**
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/1503f675-8efd-48e4-aa9d-953019a649ad)
+
+## Ejemplo 5:
+  - **Funcion:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/d28e5aa4-9c76-47d1-87f1-42cefe57b0c7)
+
+ - **Solucion dado por el programa:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/40bdd9a0-4f69-4064-af8a-727968ff342a)
+
+ - **Solucion dado por Symbolab**
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/8853087c-45bf-4882-b9f1-cb2aee881d9b)
+
+  
+ 
