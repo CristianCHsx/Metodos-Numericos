@@ -116,5 +116,37 @@ public class JavaApplication5 {
 }
 
 ```
-## Pruebas de funcionamiento
+# Pruebas de funcionamiento
 
+## 1. Prueba 1
+- **Funcion:**
+
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/e893282d-3789-47e4-8fef-a83dcf149fbd)
+
+- **Solucion por el programa:**
+
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/042ca038-1f5b-4f93-9650-7618288ac02d)
+
+- **Solucion dada por un software de integrales:**
+  
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/5ec7c3c9-0de6-428e-b156-5e1b5eeb1f7a)
+
+## 2. Prueba 2
+- **Funcion:**
+
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/d7070b45-0478-43e7-b3fa-9e24a287a4db)
+
+- **Solucion dada por el programa:**
+
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/12376ab0-f261-4387-8a3f-537811d77dd3)
+
+- **Solucion dada por un software de integrales:**
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/b08cdffd-ef0b-4b41-a4f5-98f4e0e5e072)
+
+
+3. Prueba 3
+
+4. Prueba 4
+
+5. Prueba 5
