@@ -44,6 +44,15 @@ Aqui ya empiza a cambiar un poquito la formula, sin embargo sigue manteniendo la
 
 Podria parecer que no hay mucha diferencia entre las dos formas de aplicar la formula pero la verdad es que si hay una diferencia y es en la aproximacion del resultado ya que en la formula compuesta puede manejar mas de 2 intervalos provocando que el resultado sea mas acercado al real
 
+## Algoritmo
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/c4ffb3d2-0caa-4548-a4ac-2801e00d66e0) (Chapra,2007)
+
+En la imagen anterior extraida del librp de Chapra, se encunetran dos algoritmos simples de operar con la regla del trapecio.
+
+En algoritmo de lado izquierdo es para la version de un segmento o simple. En cambio el del lado contrario es para la version de multiples segmentos, compuesto o multivariable, donde se tiene un ancho (h) se segmento constante.
+
+En donde se puede observar que en el algoritmo de un solo segmento es demasiado simple, ya que solo esta evaluando unas pocas operaciones. Por otro lado en el algoritmo de segmentos multiples se ve requerido una funcion donde este contenga un for que acumulara la suma de los numeros compendidos entre _i > i hasta n-1_ y los numeros restantes que vienen siendo f(a) y f(b) son evaluados y agregados a la suma total, para finalmente operar con una division y multiplicacion para obtener el resultado final.
 
 ## Codigo en Java
 
