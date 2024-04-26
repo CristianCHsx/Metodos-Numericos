@@ -142,11 +142,45 @@ public class JavaApplication5 {
 
 - **Solucion dada por un software de integrales:**
 
-![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/b08cdffd-ef0b-4b41-a4f5-98f4e0e5e072)
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/b08cdffd-ef0b-4b41-a4f5-98f4e0e5e072)
 
+## 3. Prueba 3
+- **Funcion:**
 
-3. Prueba 3
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/bd3d4447-3133-4faa-af5c-42b3b62f3ce6)
 
-4. Prueba 4
+- **Solucion dada por el programa:**
 
-5. Prueba 5
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/a602a59c-5d64-480a-b463-e1372b4df28e)
+
+- **Solucion dada por un software de integrales:**
+
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/941c7537-7f63-44ff-ba9e-33f8cbb4f8ec)
+
+## 4. Prueba 4
+- **Funcion:**
+
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/fdbf8975-9ae5-41c5-9cce-be6c16b50aaf)
+
+- **Solucion dada por el programa:**
+
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/5305516b-ab4e-4f33-9cf5-a7d941c22eaa)
+
+- **Solucion a dada por un software de integrales:**
+
+  ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/696227fe-bd14-45ac-8d9f-d92d3c58e6d2)
+
+## 5. Prueba 5
+ - **Funcion:**
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/fc571f19-1276-4e63-803b-f969cb217023)
+
+ - **Solucion dada por el programa:**
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/b768ff22-9d99-4701-aa84-94c4eb7bfc22)
+
+- **Solucion a dada por un sotfware de integrales:**
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/f1b634ad-42fc-423d-b432-3f2a7d268aff)
+
+ 
