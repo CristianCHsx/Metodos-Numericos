@@ -10,6 +10,24 @@ De igual modo existe la forma simple de aplicar y la forma compuesta (multivaria
 
 ∫[a,b] f(x) dx ≈ (3h/8) * [f(a) + 3f(m1) + 3f(m2) + f(b)]
 
+La forma compuesta tendra lo siguiente:
+
+∫[a,b] f(x) dx ≈ (3h/8) * [f(a) + 3f(m1) + 3f(m2) + 2f(m3) + f(b)]
+
+En donde se tendrá que evaluar un tercer valor mas y ser multiplicado por 2.
+
+# Algoritmo
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/1f3fcb3a-0755-4e77-b0bc-70914783c93d)(Chapra,2006)
+
+Se puede visualizar que aplica la formula con los valores para la formula.
+
+Existe un algoritmo mas que esta incluido en la seccion, que es un combiacion de los algoritmos para poder crear un algoritmo de aplicacion multiple para un numero de segmentos tanto impares como pares, en cual es el siguiente:
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/c8c4507f-b74c-460a-98a8-be3034b22ad7)
+
+
+
 # Codigo en Java
 ```java
 package simpsonun8;
@@ -91,3 +109,70 @@ public class SimpsonUn8 {
 }
 
 ```
+
+# Demostracion del funcionamiento del codigo hecho en Java
+
+## Ejemplo 1:
+  - **Funcion:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/820eb034-478a-46e7-b255-30b3468478d0)
+
+ - **Solucion dado por el programa:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/18c062f0-07e1-479d-a7a7-0cbad7d6d403)
+
+ - **Solucion dado por Symbolab**
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/6f5364f8-315c-4f23-b6c5-743cc7b8bf56)
+ 
+## Ejemplo 2:
+  - **Funcion:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/4f0f6631-fe33-40c5-a69e-ee508869b42d)
+
+ - **Solucion dado por el programa:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/3573d8d2-56ff-4ce7-8ca7-8b6804d9d211)
+
+ - **Solucion dado por Symbolab**
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/c5b4182f-3621-48fa-987e-317d439dfeb1)
+
+## Ejemplo 3:
+  - **Funcion:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/2ea530c4-5d6b-4812-b5bc-b03cb34fdf38)
+
+ - **Solucion dado por el programa:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/467ac190-7f00-4a59-8d14-b56582fd59f4)
+
+ - **Solucion dado por Symbolab**
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/1128c7f3-e274-40cd-baf8-c48a7d850737)
+
+## Ejemplo 4:
+  - **Funcion:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/ab075003-7a68-4b93-adbf-0ed3be07b8eb)
+
+ - **Solucion dado por el programa:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/428fb386-7df5-46f5-bfb7-588d274480f0)
+
+ - **Solucion dado por Symbolab**
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/1503f675-8efd-48e4-aa9d-953019a649ad)
+
+## Ejemplo 5:
+  - **Funcion:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/d28e5aa4-9c76-47d1-87f1-42cefe57b0c7)
+
+ - **Solucion dado por el programa:**
+
+    ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/19540fcc-dfb2-468e-ac4c-cb4ec76c7c2f)
+
+ - **Solucion dado por Symbolab**
+
+   ![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/8853087c-45bf-4882-b9f1-cb2aee881d9b)
