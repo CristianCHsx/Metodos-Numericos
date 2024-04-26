@@ -18,6 +18,12 @@ Lo anterior es la forma simple del metodo de simpson 1/3. Existe tambien la form
 
 En donde el numero de intervalos es mayor a 3.
 
+∫[a,b] f(x) dx ≈ (h/3) * [f(a) + 4f(ah) + 2f(ah) + f(b)]
+
+Donde:
+- h = (b - a) / n
+- ah = a+(h)(x) donde x es un numero entero desde 1 hasta b
+- Dependiendo si el numero de posicion de ah sea par se multiplicara por 2 y si es impar se multiplicaria por 4
 
 # Codigo en Java
 
