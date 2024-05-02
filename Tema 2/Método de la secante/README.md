@@ -96,7 +96,8 @@ public class MetodoDeLaSecante {
 
 **_Salida del programa:_**
 
-![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/d9725b66-f12b-4a0e-8b05-e0878d467213)
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/f0325e7b-fff7-490b-b189-ffafcc4c97eb)
+
 
 ## Ejercicio 3:
 
@@ -106,7 +107,8 @@ public class MetodoDeLaSecante {
 
 **_Salida del programa:_**
 
-![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/7e123f16-57f7-4fd4-87bc-3c69f72fbee0)
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/399a9eb6-b939-4e2d-8c06-28440950fdb8)
+
 
 ## Ejercicio 4:
 
@@ -116,7 +118,8 @@ public class MetodoDeLaSecante {
 
 **_Salida del programa:_**
 
-![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/56afad74-d018-4dae-b4f9-6756fd79e235)
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/02da8d4f-77e3-494b-b09f-1bfa2c574fb0)
+
 
 ## Ejercicio 5:
 
@@ -126,6 +129,7 @@ public class MetodoDeLaSecante {
 
 **_Salida del programa:_**
 
-![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/fa861225-08bc-49c0-91ea-922b52921539)
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/14aced18-8c9f-4a24-bae4-b184729c12ac)
+
 
 
