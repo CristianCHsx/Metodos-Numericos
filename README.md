@@ -9,9 +9,6 @@ utilizados para resolver las problematicas
   - [Método de Newton Raphson](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20Newton%20Raphson)
   - [Método de la regla falsa](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20la%20regla%20falsa)
   - [Método de la secante](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20la%20secante)
-      - [Introduccion](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%202/Método%20de%20la%20secante/README.md)
-      - [Codigo en Java](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%202/Método%20de%20la%20secante/MetodoDeLaSecante.java)
-      - [Ejercicios](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%202/Método%20de%20la%20secante/Ejercicios.md)
 
 + Tema 3 _Métodos de solucion de sistemas de ecuaciones_
   - [Método de Gauss Jordan](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Método%20de%20Gauss-Jordan/Código%20en%20Java)
