@@ -19,7 +19,7 @@ utilizados para resolver las problematicas
       - [Introduccion](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Método%20de%20eliminación%20Gaussiana/Código%20en%20Java/README.md)
       - [Codigo en Java](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Método%20de%20eliminación%20Gaussiana/Código%20en%20Java/EliminacionGaussiana.java)
       - [Ejercicios](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Método%20de%20eliminación%20Gaussiana/Código%20en%20Java/Ejercicios.md)
-  - [Método de Jacobi](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Método%20de%20Jacobi/Código%20en%20Java)
+  - [Método de Jacobi](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Método%20de%20Jacobi)
       - [Introduccion](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Método%20de%20Jacobi/README.md)
       - [Codigo en Java](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Método%20de%20Jacobi/Código%20en%20Java/MetodoJacobi.java)
       - [Ejercicios](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Método%20de%20Jacobi/Código%20en%20Java/Ejemplos.md)
