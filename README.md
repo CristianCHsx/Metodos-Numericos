@@ -15,9 +15,6 @@ utilizados para resolver las problematicas
   - [Método de Eliminacion Gaussiana](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Método%20de%20eliminación%20Gaussiana)
   - [Método de Jacobi](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Método%20de%20Jacobi)
   - [Método de Gauss-Seidel](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Metodo%20de%20Gauss-Seidel)
-      - [Introduccion](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Metodo%20de%20Gauss-Seidel/README.md)
-      - [Codigo en Java](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Metodo%20de%20Gauss-Seidel/Codigo%20en%20Java/Main.java)
-      - [Ejercicios](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Metodo%20de%20Gauss-Seidel/Codigo%20en%20Java/Ejemplos.md)
 
 + Tema 4 _Diferenciación e Integración numérica_
   - [Regla del trapcio](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema_4/Regla_del_trapecio)
