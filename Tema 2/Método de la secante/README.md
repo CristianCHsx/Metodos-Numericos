@@ -19,3 +19,113 @@ En este metodo no se necesitan intervalos pero se necesitan de dos valores propu
      - Xi-1 = Xi
      - Xi= Xi+1
 5. Regresa al paso 2 para encontrar la nueva raiz
+
+##Codigo en Java
+```java
+package metodo.de.la.secante;
+import java.text.DecimalFormat;
+import java.util.Scanner;
+
+public class MetodoDeLaSecante {
+
+
+    public static double f(double x){
+        
+        return (Math.pow(x, 3))+2*(Math.pow(x, 2))-10*x-20;
+    }
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        DecimalFormat df = new DecimalFormat("#.0000");
+        
+        System.out.println("Ingresa un primer valor propuesto:");
+        double aa = sc.nextDouble();
+        System.out.println("Ingresa un segundo valor propuesto:");
+        double bb = sc.nextDouble();
+        System.out.println("Ingresa la tolerancia del error:");
+        double tol = sc.nextDouble();
+        
+        tol=tol*100;
+        double error=0,xi,xiant;
+        int ite=0;
+        xi=aa;
+        xiant=bb;
+        do{
+            double fxmu=f(xiant);
+            double fxi=f(xi);
+            double fxiN=xi-(fxi*(xiant-xi))/(fxmu-fxi);
+            
+            xiant=xi;
+            xi=fxiN;
+            if(ite==0){
+                error=tol+1;
+            }else{
+                error=Math.abs((xi-xiant)/xi)*100;
+            }
+            System.out.println(ite);
+            ite+=1;
+        }while(error>=tol);
+        
+        System.out.println("El valor de la raiz aproximado es: " + df.format(xi));
+    }
+    
+}
+
+```
+
+## Ejemplo del funcionamiento
+
+# Ejemplos del funcionamiento del codigo
+
+## Ejercicio 1:
+
+**_Ecuaciones:_**
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/91a2f438-590f-4fbe-8d98-bdc44d832bf4)
+
+
+**_Salida del programa:_**
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/f4c4f167-5f18-4d2d-8a83-e668e5a096a2)
+
+
+## Ejercicio 2:
+
+**_Ecuaciones:_**
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/68e4f7ff-b834-4949-995a-8567f08b8f28)
+
+**_Salida del programa:_**
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/d9725b66-f12b-4a0e-8b05-e0878d467213)
+
+## Ejercicio 3:
+
+**_Ecuaciones:_**
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/b8589d67-1e1a-48bb-8d1a-5e50966dc477)
+
+**_Salida del programa:_**
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/7e123f16-57f7-4fd4-87bc-3c69f72fbee0)
+
+## Ejercicio 4:
+
+**_Ecuaciones:_**
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/af3b9f92-01f8-4ac1-b256-354c29d81b86)
+
+**_Salida del programa:_**
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/56afad74-d018-4dae-b4f9-6756fd79e235)
+
+## Ejercicio 5:
+
+**_Ecuaciones:_**
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/b1aa2636-2224-4c8e-954b-a2205465860f)
+
+**_Salida del programa:_**
+
+![image](https://github.com/CristianCHsx/Metodos-Numericos/assets/162630564/fa861225-08bc-49c0-91ea-922b52921539)
+
+
