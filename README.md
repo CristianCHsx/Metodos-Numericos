@@ -15,7 +15,7 @@ utilizados para resolver las problematicas
       - [Introduccion](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Método%20de%20Gauss-Jordan/Código%20en%20Java/README.md)
       - [Codigo en Java](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Método%20de%20Gauss-Jordan/Código%20en%20Java/GaussJordan.java)
       - [Ejercicios](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Método%20de%20Gauss-Jordan/Código%20en%20Java/Ejercicios.md)
-  - [Método de Eliminacion Gaussiana](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Método%20de%20eliminación%20Gaussiana/Código%20en%20Java)
+  - [Método de Eliminacion Gaussiana](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%203%20/Método%20de%20eliminación%20Gaussiana)
       - [Introduccion](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Método%20de%20eliminación%20Gaussiana/Código%20en%20Java/README.md)
       - [Codigo en Java](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Método%20de%20eliminación%20Gaussiana/Código%20en%20Java/EliminacionGaussiana.java)
       - [Ejercicios](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%203%20/Método%20de%20eliminación%20Gaussiana/Código%20en%20Java/Ejercicios.md)
