@@ -7,9 +7,6 @@ utilizados para resolver las problematicas
 + Tema 2 _Métodos de solucion de ecuaciones_
   - [Método de Biseccion](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Metodo%20de%20Biseccion)
   - [Método de Newton Raphson](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20Newton%20Raphson)
-      - [Introduccion](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%202/Método%20de%20Newton%20Raphson/README.md)
-      - [Codigo en Java](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%202/Método%20de%20Newton%20Raphson/Newton.java)
-      - [Ejercicios](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%202/Método%20de%20Newton%20Raphson/Ejercicios.md)
   - [Método de la regla falsa](https://github.com/CristianCHsx/Metodos-Numericos/tree/main/Tema%202/Método%20de%20la%20regla%20falsa)
       - [Introduccion](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%202/Método%20de%20la%20regla%20falsa/README.md)
       - [Codigo en Java](https://github.com/CristianCHsx/Metodos-Numericos/blob/main/Tema%202/Método%20de%20la%20regla%20falsa/Regla_Falsa.java)
