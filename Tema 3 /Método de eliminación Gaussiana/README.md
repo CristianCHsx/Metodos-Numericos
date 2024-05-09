@@ -18,6 +18,7 @@ Si se llegase a obtener una matriz identidad, el sistema es compatible determina
 5. Resolver sistema de ecuaciones, remplazandolo con los valores obtenidos
 
 ## Codigo en Java
+
 ```java
 package eliminaciongaussiana;
 
@@ -109,6 +110,7 @@ public class EliminacionGaussiana {
 }
 
 ```
+
 # Ejemplos del funcionamiento del programa
 ## Ejercicio 1:
 **_Sistema de ecuaciones:_**
