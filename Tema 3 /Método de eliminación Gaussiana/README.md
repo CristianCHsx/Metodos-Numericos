@@ -19,12 +19,9 @@ Si se llegase a obtener una matriz identidad, el sistema es compatible determina
 
 ## Codigo en Java
 ```java
-
 package eliminaciongaussiana;
 
-
 import java.util.Arrays;
-
 
 public class EliminacionGaussiana {
 
